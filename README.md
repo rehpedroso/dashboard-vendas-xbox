@@ -15,7 +15,8 @@ O dashboard criado pode ser encontrado no arquivo `base.xlsx`.
 ## Prévia do Dashboard
 Aqui está uma prévia do dashboard criado:
 
-![Dashboard de Vendas do Xbox](Dashboard%20Finalizado.png)
+![Dashboard Finalizado](https://github.com/user-attachments/assets/6991065f-9512-40b0-b3df-94ac57abec80)
+
 
 ## Tecnologias Utilizadas
 - **Excel** / **Power Query**
